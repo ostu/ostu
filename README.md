@@ -49,6 +49,15 @@ I use AI coding agents to accelerate implementation, while keeping requirements,
       <p><a href="https://github.com/ostu/wizard-tower-showcase">Architecture &amp; economy case study</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ostu/my-garden">My Garden / Мой сад</a></h3>
+      <p><strong>Android · Kotlin · AI-assisted Product Development</strong></p>
+      <p>Independently developed and published a native Android game for children with three garden-themed mini-games. Built with Jetpack Compose and OpenAI Codex, with developer-created AI-generated visual assets. Released on RuStore in June 2026.</p>
+      <p><a href="https://github.com/ostu/my-garden">Source code &amp; documentation</a> · <a href="https://www.rustore.ru/catalog/app/com.example.mygarden">RuStore</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## What I work with
@@ -61,4 +70,4 @@ I use AI coding agents to accelerate implementation, while keeping requirements,
 
 I like projects where **the numbers can be explained, the logic can be tested, and the result is useful to someone**. That means documenting assumptions, comparing new calculations against previous ones, keeping sensitive data out of public artifacts, and stating the limits of what has actually been measured.
 
-The repositories linked above contain either **public code** (CS2 Tournament Analytics) or **technical case studies with real screenshots** (Dance Card, Туристу, Wizard Tower). Private source repositories are intentionally not exposed.
+The repositories linked above contain either **public code** (CS2 Tournament Analytics, My Garden) or **technical case studies with real screenshots** (Dance Card, Туристу, Wizard Tower). Private source repositories are intentionally not exposed.
