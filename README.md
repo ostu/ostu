@@ -51,6 +51,9 @@ I use AI coding agents to accelerate implementation, while keeping requirements,
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/ostu/my-garden">
+        <img src="https://raw.githubusercontent.com/ostu/my-garden/master/docs/screenshots/Screenshot_game_run.png" alt="My Garden Android game — Fun Run" width="100%" />
+      </a>
       <h3><a href="https://github.com/ostu/my-garden">My Garden / Мой сад</a></h3>
       <p><strong>Android · Kotlin · AI-assisted Product Development</strong></p>
       <p>Independently developed and published a native Android game for children with three garden-themed mini-games. Built with Jetpack Compose and OpenAI Codex, with developer-created AI-generated visual assets. Released on RuStore in June 2026.</p>
