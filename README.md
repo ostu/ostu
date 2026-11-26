@@ -1,5 +1,7 @@
 # From data to shipped products
 
+[Русская версия](https://github.com/ostu/ostu/blob/main/README.ru.md)
+
 **Senior Product Analyst · Analytics Engineer · AI-assisted Product Development**
 
 I design metrics and data models, build reproducible analytics pipelines, and turn product ideas into working applications. My background spans **15+ years across analytics, BI, and project delivery**, with hands-on work in SQL, Python, data quality, and technical product ownership.
